@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&family=Indie+Flower&family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
 pody{
     color: blue;
 }
 h1{
-    color: blue;font-size:40px; text-align: center;
+    color: blue;font-size:40px; text-align: cente;;
+font-size: 50px;font-family:"Indie Flower", cursive;
+background:white;padding-left: 10px;
 }
 p{
-    color: red; font-size: 20px; text-align: center;padding: 5%
+    color: red; font-size: 20px; text-align: center;padding: 5%; line-height: 2;font-family: "Playwrite DE Grund", cursive;
 }
